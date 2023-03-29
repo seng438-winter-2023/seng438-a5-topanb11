@@ -12,6 +12,8 @@
 
 # Introduction
 
+The purpose of this lab is to analyze test data using reliability assessment tools using the following two methods: Reliability Growth Testing and Reliability Demonstration Chart (RDC). We will perform tests on a hypothetical system using SRTAT (Software Reliability Testing Analysis Tool) to measure the failure rate, MTTF and reliability of the SUT. The RDC will tell us if the failure rate or MTTF is met. 
+
 # Assessment Using Reliability Growth Testing 
 
 # Assessment Using Reliability Demonstration Chart 
